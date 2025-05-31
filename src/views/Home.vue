@@ -368,7 +368,7 @@ import svg104 from "../resources/104.svg";
 import svg101 from "../resources/101.svg";
 import svg102 from "../resources/102.svg";
 import maskGroup from "../resources/Mask group.svg";
-import cvPdf from "../resources/yahya_eyad.pdf";
+import cvPdf from "@resources/Yahya_Eyad.pdf";
 import project1 from "../resources/project1.png";
 import project2 from "../resources/project2.png";
 import project3 from "../resources/project3.png";
